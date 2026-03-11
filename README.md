@@ -1,4 +1,4 @@
-# xArm7 ROS2 Docker Setup (ROS Jazzy)
+# xArm7 ROS2 Docker Setup Installation Guide (ROS Jazzy)
 
 This guide explains how to run **xArm ROS2 with ROS Jazzy inside Docker on macOS**, build the workspace, and control the robot.
 
