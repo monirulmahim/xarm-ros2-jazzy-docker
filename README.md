@@ -165,6 +165,11 @@ docker ps -a
 
 ## 2. Start a shell in the container
 
+First start the container:
+```bash
+docker start ros_jazzy_xarm
+```
+Then open an interactive shell inside the container:
 ```bash
 docker exec -it ros_jazzy_xarm bash
 ```
