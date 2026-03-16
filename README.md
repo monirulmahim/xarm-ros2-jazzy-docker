@@ -239,6 +239,8 @@ You are now working inside the Docker container using VS Code.
 
 ---
 
+5. On terminal source the xarm_ws (if you don't know) [Have to Modify this one
+
 # Installing Python 3.11 in the Container
 
 If your project requires a specific Python version:
