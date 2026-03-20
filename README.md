@@ -264,7 +264,7 @@ python3.11 --version
 # Notes
 
 * Make sure the **robot and computer are on the same network**.
-* Update the **robot IP address** accordingly.
+* Update the ** IP address in Setting** accordingly.
 * Always **source ROS environments** when opening a new terminal.
 * Tested on **macOS Tahoe** running on **Apple Silicon (M4 Pro).**
 
