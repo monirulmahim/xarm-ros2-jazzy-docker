@@ -266,11 +266,11 @@ python3.11 --version
 
 ---
 
-# Notes
+## Notes
 
-* Make sure the **robot and computer are on the same network**.
-* Update the **robot IP address** accordingly.
-* Always **source ROS environments** when opening a new terminal.
-* Tested on **macOS Tahoe** running on **Apple Silicon (M4 Pro).**
-
+- Ensure the **robot and computer are connected to the same network**.
+- You may need to **configure your Ethernet IP address** to match the robot’s network range.
+- Update the **robot IP address** if required.
+- Always **source the ROS environment** when opening a new terminal.
+- Tested on **macOS Tahoe (Apple Silicon M4 Pro)**.
 ---
